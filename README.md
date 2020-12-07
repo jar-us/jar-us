@@ -15,6 +15,11 @@
 [<img align="left" alt="jar-us | Gmail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](suraj.sharma3963@gmail.com)
 
 <br />
+
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
 ---
 
 ### Languages and Tools:
