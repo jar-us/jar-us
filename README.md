@@ -41,6 +41,10 @@
 </code>](https://ubuntu.com/)
 
 ---
+# Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 [![Jar-us's github stats](https://github-readme-stats.vercel.app/api?username=jar-us)](https://github.com/jar-us/github-readme-stats)
 
 ---
