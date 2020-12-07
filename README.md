@@ -40,6 +40,13 @@
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
 
+---
+
+<p align=center>                           
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=jar-us.jar-us" alt="Visitors">                     
+</p>
+
+---
 
 [linkedin]: https://www.linkedin.com/in/suraj-sharma-344639201/
 [gmail]: mailto:suraj.sharma3963@gmail.com
