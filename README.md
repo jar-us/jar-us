@@ -50,6 +50,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
 </a>
 
+---
+[![Jar-us's github stats](https://github-readme-stats.vercel.app/api?username=jar-us)](https://github.com/jar-us/github-readme-stats)
 
 ---
 
