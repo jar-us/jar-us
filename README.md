@@ -26,12 +26,12 @@ Here are a few examples of the type of work I've done. More details can be found
 
 ## 📈 My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=jar-us&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jar-us&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Let's Connect!
 I'm always open to discussing new projects, innovative ideas, or opportunities to collaborate.
 
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Portfolio Website:** [your-portfolio-website.com]
-- **Email:** your.email@example.com
+- **LinkedIn:** [https://www.linkedin.com/in/suraj-sharma-344639201/]
+- **Portfolio Website: (Coming Soon)** [#]
+- **Email: (Coming Soon)** your.email@example.com
